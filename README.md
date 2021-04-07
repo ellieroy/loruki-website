@@ -20,4 +20,4 @@ This is  ...
 - CSS Grid
 
 ## Acknowledgements 
-I followed the tutorial created by [https://www.youtube.com/watch?v=p0bGHP-PXD4](Traversy Media) in order to create this website. This helped me to learn CSS Grid and Flexbox, as well as CSS custom properties. Thanks for sharing!
+I followed the tutorial created by [Traversy Media](https://www.youtube.com/watch?v=p0bGHP-PXD4) in order to create this website. This helped me to learn CSS Grid and Flexbox, as well as CSS custom properties. Thanks for sharing!
