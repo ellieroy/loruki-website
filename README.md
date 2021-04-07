@@ -1,6 +1,6 @@
 # Traversy Media - Loruki website tutorial
 
-This is  ... 
+This is a website for a pretend cloud-hosting platform that I created by following [this tutorial](https://www.youtube.com/watch?v=p0bGHP-PXD4) by Traversy Media. It has three pages (home, features, docs) and a form, which has been deployed on Netlify. It also has a responsive design, so it looks good on both mobile and desktop. 
 
 ### Screenshot
 
@@ -10,8 +10,8 @@ This is  ...
 </p>
 
 ### Links
-- Live site URL: [https://ellieroy.github.io/loruki-website/](https://ellieroy.github.io/loruki-website/)
-- Netlify live site URL (with form deployment): [https://epic-heyrovsky-1ddec5.netlify.app](https://epic-heyrovsky-1ddec5.netlify.app)
+- Netlify URL (with form deployment): [https://epic-heyrovsky-1ddec5.netlify.app](https://epic-heyrovsky-1ddec5.netlify.app)
+- Second live site URL: [https://ellieroy.github.io/loruki-website/](https://ellieroy.github.io/loruki-website/)
 
 ### Built with 
 - Semantic HTML5 markup
