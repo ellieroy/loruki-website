@@ -299,7 +299,7 @@ code, pre {
 }
 
 /* Tablets and under */
-@media(max-width: 768px) {
+@media(max-width: 1100px) {
     .grid, 
     .showcase .grid, 
     .stats .grid, 
@@ -309,6 +309,7 @@ code, pre {
     .docs-main .grid {
         grid-template-columns: 1fr;
         grid-template-rows: 1fr;
+        /* gap: 0; */
     }
 
     .showcase {
@@ -353,6 +354,15 @@ code, pre {
 
 /* Mobile */
 @media(max-width: 500px) {
+    .showcase-text {
+        max-width: 275px;
+        justify-self: center;
+    }
+
+    .showcase-form {
+        max-width: 275px;
+    }
+
     .navbar {
         height: 110px
     }
